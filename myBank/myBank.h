@@ -16,3 +16,5 @@ void E ();
 
 _Bool check (int i);
 _Bool isOpen (int i);
+
+#endif
