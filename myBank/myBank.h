@@ -4,6 +4,7 @@
 #define R_SIZE 2
 #define CLOSE 0
 #define OPEN 1
+extern double arr[][C_SIZE];
 
 void O ();
 void B ();
